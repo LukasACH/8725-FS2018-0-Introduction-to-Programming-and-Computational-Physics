@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise 5", "Exercise 5", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sortingAlgorithm", "Exercise 5\sortingAlgorithm\sortingAlgorithm.vcxproj", "{4277C424-8A29-4EDD-B99F-0B6C069383AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "filteringAlgorithm", "Exercise 5\filteringAlgorithm\filteringAlgorithm.vcxproj", "{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +25,21 @@ Global
 		{4277C424-8A29-4EDD-B99F-0B6C069383AB}.Release|x64.Build.0 = Release|x64
 		{4277C424-8A29-4EDD-B99F-0B6C069383AB}.Release|x86.ActiveCfg = Release|Win32
 		{4277C424-8A29-4EDD-B99F-0B6C069383AB}.Release|x86.Build.0 = Release|Win32
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Debug|x64.ActiveCfg = Debug|x64
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Debug|x64.Build.0 = Debug|x64
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Debug|x86.ActiveCfg = Debug|Win32
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Debug|x86.Build.0 = Debug|Win32
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Release|x64.ActiveCfg = Release|x64
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Release|x64.Build.0 = Release|x64
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Release|x86.ActiveCfg = Release|Win32
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4277C424-8A29-4EDD-B99F-0B6C069383AB} = {805FA979-F41E-4025-A8A6-8471A087296D}
+		{31BA5FAA-EDC5-4CCE-8E48-8E67F0C4FB03} = {805FA979-F41E-4025-A8A6-8471A087296D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5DB3D887-55E6-493D-8025-8FDD04E81F32}
