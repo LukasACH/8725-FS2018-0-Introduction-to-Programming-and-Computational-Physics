@@ -1,0 +1,7 @@
+1968    Wyomia Tyus                 1945    United_States   11.07   1.2
+1972    Renate Stecher              1950    East_Germany    11.07   0.2
+1976    Inge Helten                 1950    West_Germany    11.04   0.6
+1976    Annegret Richter            1950    West_Germany    11.01   0.6
+1982    Marlies Oelsner-Goehr       1958    East_Germany    10.81   1.7
+1984    Evelyn Ashford              1957    United_States   10.76   1.7
+1988    Florence Griffith-Joyner    1959    United_States   10.49   4.7
